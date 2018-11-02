@@ -37,7 +37,6 @@ header {
 .article {
     color: #ebebeb;
     background-color: #777;
-    margin: 20px;
 }
 
 .article-box {
@@ -52,8 +51,25 @@ section {
     float: left;
 }
 
+aside {
+    color:#777;
+    background-color: #ebebeb;
+    height: 100%;
+    float: right;
+}
 
   .p {
     color:#777;
     background-color: #ebebeb;
+}
+footer {
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    height: 20px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 20px 0 20px 0;
 }
