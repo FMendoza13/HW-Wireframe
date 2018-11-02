@@ -45,6 +45,7 @@ header {
     background-color: #ebebeb;
     padding: 20px;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 section {
@@ -52,8 +53,9 @@ section {
     background-color: #ebebeb;
     height: 100%;
     float: left;
-    width: 49%;
+    width: 45%;
     text-align: center;
+    padding: 20px;
 }
 
 aside {
@@ -61,8 +63,9 @@ aside {
     background-color: #ebebeb;
     height: 100%;
     float: right;
-    width: 49%;
+    width: 45%;
     text-align: center;
+    padding: 20px;
 }
 
   .p {
