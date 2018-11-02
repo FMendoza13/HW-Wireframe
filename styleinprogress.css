@@ -1,9 +1,9 @@
 * 
 body {
-    background-color: darkgray;
+    background-color: #777;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    font-color: #7777;
+
 }
 .container {
     width: 960px;
@@ -37,6 +37,7 @@ header {
 .article {
     color: #ebebeb;
     background-color: #777;
+    padding: 20px 0 20px 0;
 }
 
 .article-box {
@@ -49,6 +50,7 @@ section {
     background-color: #777;
     height: 100%;
     float: left;
+    width: 49%;
 }
 
 aside {
@@ -56,6 +58,8 @@ aside {
     background-color: #ebebeb;
     height: 100%;
     float: right;
+    width: 49%;
+    text-align: center;
 }
 
   .p {
